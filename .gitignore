@@ -1,0 +1,10 @@
+build/
+node_modules/
+migrations/
+flattened/
+truffle-config.js
+package-lock.json
+.vscode/
+rarity/
+contracts/extras/
+*test.js
